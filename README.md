@@ -1,2 +1,3 @@
-# java-no-framework-web-app
-No framework Java web application
+# Minimalistic Java microservice
+
+Mminimalist java microservice project
